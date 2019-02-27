@@ -1,0 +1,10 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<img src="images/headshot.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+
+Welcome to my website!
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/collin-austad-a360116a/).

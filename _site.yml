@@ -1,0 +1,13 @@
+name: "Collin Austad"
+output_dir: "."
+navbar:
+  title: "Collin Austad"
+  left:
+    - text: "About"
+      href: about.html
+    - text: "Programming"
+      href: software.html
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
