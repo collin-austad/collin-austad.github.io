@@ -3,18 +3,14 @@ output_dir: "."
 navbar:
   title: "Collin Austad"
   left:
-    - text: "About"
-      href: about.html
-    - text: "Programming"
-      href: software.html
+    - text: "Projects"
+      href: projects.html
   right:
-    - icon: fa-envelope fa-lg
-      href: contact.html
     - icon: fa-github fa-lg
       href: http://github.com/collin-austad
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/collin-austad-a360116a/
 output:
   html_document:
-    theme: paper
+    theme: yeti
     css: 'styles.css'
